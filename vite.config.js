@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://dianantodorova.github.io/Tic-Tac-Toe-Game/', // Replace with your repository name
+  base: 'https://diana-nk.github.io/Tic-Tac-Toe-Game/', // Replace with your repository name
 });
